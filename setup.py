@@ -32,7 +32,7 @@ setup(
     description="DM.API Account",
     author="author",
     author_email="author@email.ru",
-    url="",
+    url="https://github.com/shinkai-tester/openapi-templates.git",
     keywords=["OpenAPI", "OpenAPI-Generator", "DM.API Account"],
     python_requires=">=3.6",
     install_requires=REQUIRES,
